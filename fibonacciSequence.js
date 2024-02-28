@@ -7,3 +7,6 @@ function fibonacci(n){
 }
 
 console.log(fibonacci(10000000));
+
+
+// Big O = O(n)
